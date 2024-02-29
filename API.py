@@ -3,6 +3,7 @@ import os
 import base64
 import requests
 import json
+import scipy
 
 load_dotenv()
 
